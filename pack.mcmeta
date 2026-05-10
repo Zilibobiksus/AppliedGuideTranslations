@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 22,
+    "description": "§bApplied Guide Translations: §fПолный перевод GuideME Гайдов AE2 и некоторых дополнений. Переведено при помощи §6Gemini & GigaChat§f."
+  },
+  "language": {
+    "ru_ru": {
+      "name": "Русский",
+      "region": "Россия"
+    }
+  }
+}
